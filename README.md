@@ -64,3 +64,7 @@ Crear proyectos.
 Editar informacion de los proyectos
 Editar la informacion financiera. Subir las facturas sobre los gastos de mantenimiento o de los proyectos.
 Asignar permisos a editar un proyecto para un condomine.
+
+## Tecnologia:
+- front end Angular 8
+- Backend
