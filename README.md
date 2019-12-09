@@ -67,4 +67,4 @@ Asignar permisos a editar un proyecto para un condomine.
 
 ## Tecnologia:
 - front end Angular 8
-- Backend
+- Backend Nodejs
